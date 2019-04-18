@@ -1,0 +1,19 @@
+.coordinates {
+      background: rgba(0,0,0,0.5);
+      color: #fff;
+      position: absolute;
+      bottom: 50px;
+      left: 20px;
+      padding:5px 10px;
+      margin: 0;
+      font-size: 11px;
+      line-height: 18px;
+      border-radius: 3px;
+      display: block;
+    }
+
+    .focus{
+      border: solid 1px gray;
+    }
+
+/*# sourceMappingURL=/custom.59417457.css.map */
